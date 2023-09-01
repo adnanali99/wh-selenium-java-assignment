@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-02T02:13:51 PKT" name="Default suite" finished-at="2023-09-02T02:14:08 PKT" duration-ms="16852">
+    <groups>
+    </groups>
+    <test started-at="2023-09-02T02:13:51 PKT" name="Default test" finished-at="2023-09-02T02:14:08 PKT" duration-ms="16852">
+      <class name="com.walletHubAssignment.testCases.TC_001_WH_CompanyReview">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.walletHubAssignment.testCases.TC_001_WH_CompanyReview@74e28667]" started-at="2023-09-02T02:13:51 PKT" name="setup" finished-at="2023-09-02T02:13:53 PKT" duration-ms="1522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ReviewACompany()[pri:0, instance:com.walletHubAssignment.testCases.TC_001_WH_CompanyReview@74e28667]" started-at="2023-09-02T02:13:53 PKT" name="ReviewACompany" finished-at="2023-09-02T02:14:07 PKT" duration-ms="14932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReviewACompany -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.walletHubAssignment.testCases.TC_001_WH_CompanyReview@74e28667]" started-at="2023-09-02T02:14:07 PKT" name="tearDown" finished-at="2023-09-02T02:14:08 PKT" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.walletHubAssignment.testCases.TC_001_WH_CompanyReview -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
